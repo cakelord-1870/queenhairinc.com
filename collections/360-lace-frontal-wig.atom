@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/360-lace-frontal-wig.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-03-19T23:30:35-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4678138396774</id>
+    <published>2020-03-19T23:30:35-04:00</published>
+    <updated>2020-03-19T23:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-150-density-virgin-hair-water-wave-360-lace-frontal-wigs-100-human-hair"/>
+    <title>10a+ 150 Density Virgin Hair Water Wave 360 Lace Frontal Wigs 100% Human Hair</title>
+    <s:type>water wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-water-wave-10a-150-density-virgin-hair-water-wave-360-lace-frontal-wigs-100-human-hair-22877353345212.jpg?v=1608127979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>water wave<br>
+        <strong>Price: </strong>
+            107.00 - 369.00
+            <a href="https://queenhairinc.com/products/10a-150-density-virgin-hair-water-wave-360-lace-frontal-wigs-100-human-hair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="551" height="229">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">
+<p>Water wave<br></p>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="odd">
+<th>Item Type</th>
+<td class="data last">10a+ 150% 360 lace frontal wig</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">250-450g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021 summer sale</s:tag>
+    <s:tag>360 Lace Frontal Wig</s:tag>
+    <s:tag>water wave 360wig 150%</s:tag>
+    <s:tag>WaterWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>12&quot; / #natural</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>14&quot; / #natural</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>16&quot; / #natural</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>18&quot; / #natural</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>20&quot; / #natural</title>
+      <s:price currency="USD">201.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>22&quot; / #natural</title>
+      <s:price currency="USD">253.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>24&quot; / #natural</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678138396774</id>
+      <title>26&quot; / #natural</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4678126174310</id>
+    <published>2020-03-19T23:19:51-04:00</published>
+    <updated>2020-03-19T23:19:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-150-density-virgin-hair-deep-wave-360-lace-frontal-wigs-100-human-hair"/>
+    <title>10a+ 150 Density Virgin Hair Deep Wave 360 Lace Frontal Wigs 100% Human Hair</title>
+    <s:type>deep wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-deep-wave-10a-150-density-virgin-hair-deep-wave-360-lace-frontal-wigs-100-human-hair-29854674747580.jpg?v=1628024758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>deep wave<br>
+        <strong>Price: </strong>
+            107.00 - 369.00
+            <a href="https://queenhairinc.com/products/10a-150-density-virgin-hair-deep-wave-360-lace-frontal-wigs-100-human-hair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="551" height="229">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Deep wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="odd">
+<th>Item Type</th>
+<td class="data last">10a+ 150% 360 lace frontal wig</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">250-450g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021 summer sale</s:tag>
+    <s:tag>360 Lace Frontal Wig</s:tag>
+    <s:tag>deep wave 360wig 150%</s:tag>
+    <s:tag>DeepWave</s:tag>
+    <s:tag>hot selling</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>16&quot;</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>18&quot;</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>20&quot;</title>
+      <s:price currency="USD">201.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>22&quot;</title>
+      <s:price currency="USD">253.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>24&quot;</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678126174310</id>
+      <title>26&quot;</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4677118197862</id>
+    <published>2020-03-19T04:53:40-04:00</published>
+    <updated>2020-03-19T04:53:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-150-density-virgin-hair-body-wave-360-lace-frontal-wigs-100-human-hair"/>
+    <title>10a+ 150 Density Virgin Hair Body Wave 360 Lace Frontal Wigs 100% Human Hair</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-10a-150-density-virgin-hair-body-wave-360-lace-frontal-wigs-100-human-hair-29854608556220.jpg?v=1628027993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            107.00 - 369.00
+            <a href="https://queenhairinc.com/products/10a-150-density-virgin-hair-body-wave-360-lace-frontal-wigs-100-human-hair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="551" height="229">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Body wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="odd">
+<th>Item Type</th>
+<td class="data last">10a+ 150% 360 lace frontal wig</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">250-450g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021 summer sale</s:tag>
+    <s:tag>360 Lace Frontal Wig</s:tag>
+    <s:tag>Body wave 360wig 150%</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>12&quot; / 1B#</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>14&quot; / 1B#</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>16&quot; / 1B#</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>18&quot; / 1B#</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>20&quot; / 1B#</title>
+      <s:price currency="USD">201.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>22&quot; / 1B#</title>
+      <s:price currency="USD">253.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>24&quot; / 1B#</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677118197862</id>
+      <title>26&quot; / 1B#</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4677091131494</id>
+    <published>2020-03-19T02:54:45-04:00</published>
+    <updated>2020-03-19T02:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-150-density-virgin-hair-silky-straight-360-lace-frontal-wigs-100-human-hair"/>
+    <title>10a+ 150 Density Virgin Hair Silky Straight 360 Lace Frontal Wigs 100% Human Hair</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-150-density-virgin-hair-silky-straight-360-lace-frontal-wigs-100-human-hair-22877354361020.jpg?v=1608159716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            107.00 - 369.00
+            <a href="https://queenhairinc.com/products/10a-150-density-virgin-hair-silky-straight-360-lace-frontal-wigs-100-human-hair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="551" height="229">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Silky straight</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="odd">
+<th>Item Type</th>
+<td class="data last">10a+ 150% 360 lace frontal wig</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">250-450g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021 summer sale</s:tag>
+    <s:tag>360 Lace Frontal Wig</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:tag>straight 360wig 150%</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>16&quot;</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>18&quot;</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>20&quot;</title>
+      <s:price currency="USD">201.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>22&quot;</title>
+      <s:price currency="USD">253.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>24&quot;</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4677091131494</id>
+      <title>26&quot;</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

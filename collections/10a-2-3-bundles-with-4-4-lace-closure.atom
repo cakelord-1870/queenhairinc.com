@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/10a-2-3-bundles-with-4-4-lace-closure.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2021-08-04T04:27:35-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/7013834162364</id>
+    <published>2021-08-04T04:27:35-04:00</published>
+    <updated>2021-08-04T04:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-straight-2"/>
+    <title>Grade 10A+ Virgin Hair 3/4 Bundles with 4*4 Lace Closure Straight 🛫</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-straight-29901387563196.jpg?v=1628076236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            224.00 - 458.00
+            <a href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-straight-2">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <br></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-100g/pc+30-35g closure</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Machine Double Weft</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">3pcs /4pcs Weft&amp;1pc Closure</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>DHL 5-8 business days ；</span></td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500.jpg?v=1587003106"></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/ffb1555e7320212fe451b174f179a0d_0ea05356-2135-416a-802b-923f543ce115.jpg?v=1586850616"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grade 10A+ With Lace Closure</s:tag>
+    <s:tag>Grade10A+</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 14 14+14</title>
+      <s:price currency="USD">224.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 16 16+14</title>
+      <s:price currency="USD">234.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 16 18+14</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 16 16+16</title>
+      <s:price currency="USD">246.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 18 18 +16</title>
+      <s:price currency="USD">262.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 18 20+16</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 18 18+18</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 20 20 +18</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 20 22+18</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 20 20+20</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 22 22+20</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 22 24+20</title>
+      <s:price currency="USD">327.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 22 22+20</title>
+      <s:price currency="USD">326.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 24 24+20</title>
+      <s:price currency="USD">342.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 24 26+20</title>
+      <s:price currency="USD">347.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>24 24 24+20</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>24 26 26+20</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>26 26 26+20</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 14 14 14+14</title>
+      <s:price currency="USD">277.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 14 16 16+14</title>
+      <s:price currency="USD">287.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>14 16 18 20+14</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 16 16 16+16</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 16 18 18+16</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>16 18 20 22+16</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 18 18 18+18</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 18 20 20+18</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>18 20 22 24+18</title>
+      <s:price currency="USD">384.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 20 20 20+20</title>
+      <s:price currency="USD">378.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 20 22 22+20</title>
+      <s:price currency="USD">392.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>20 22 24 26+20</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 22 22 22+20</title>
+      <s:price currency="USD">406.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 22 24 24+20</title>
+      <s:price currency="USD">422.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>22 24 26 28+20</title>
+      <s:price currency="USD">446.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>24 24 24 24+20</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>24 24 26 26+20</title>
+      <s:price currency="USD">448.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013834162364</id>
+      <title>26 26 26 26+20</title>
+      <s:price currency="USD">458.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/7013838028988</id>
+    <published>2021-08-04T04:27:13-04:00</published>
+    <updated>2021-08-04T04:27:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-water-wave-2"/>
+    <title>Grade 10A+ Virgin Hair 3/4 Bundles with 4*4 Lace Closure Water Wave 🛫</title>
+    <s:type>water wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-water-wave-grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-water-wave-29901399425212.jpg?v=1628075876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>water wave<br>
+        <strong>Price: </strong>
+            224.00 - 458.00
+            <a href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-water-wave-2">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Water Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-100g/pc+30-35g closure</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Machine Double Weft</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">3pcs /4pcs Weft&amp;1pc Closure</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>DHL 5-8 business days ；</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grade 10A+ With Lace Closure</s:tag>
+    <s:tag>WaterWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 14 14+14</title>
+      <s:price currency="USD">224.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 16 16+14</title>
+      <s:price currency="USD">234.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 16 18+14</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 16 16+16</title>
+      <s:price currency="USD">246.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 18 18 +16</title>
+      <s:price currency="USD">262.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 18 20+16</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 18 18+18</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 20 20 +18</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 20 22+18</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 20 20+20</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 22 22+20</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 22 24+20</title>
+      <s:price currency="USD">327.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 22 22+20</title>
+      <s:price currency="USD">326.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 24 24+20</title>
+      <s:price currency="USD">342.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 24 26+20</title>
+      <s:price currency="USD">347.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>24 24 24+20</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>24 26 26+20</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>26 26 26+20</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 14 14 14+14</title>
+      <s:price currency="USD">277.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 14 16 16+14</title>
+      <s:price currency="USD">287.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>14 16 18 20+14</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 16 16 16+16</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 16 18 18+16</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>16 18 20 22+16</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 18 18 18+18</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 18 20 20+18</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>18 20 22 24+18</title>
+      <s:price currency="USD">384.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 20 20 20+20</title>
+      <s:price currency="USD">378.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 20 22 22+20</title>
+      <s:price currency="USD">392.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>20 22 24 26+20</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 22 22 22+20</title>
+      <s:price currency="USD">406.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 22 24 24+20</title>
+      <s:price currency="USD">422.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>22 24 26 28+20</title>
+      <s:price currency="USD">446.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>24 24 24 24+20</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>24 24 26 26+20</title>
+      <s:price currency="USD">448.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013838028988</id>
+      <title>26 26 26 26+20</title>
+      <s:price currency="USD">458.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/7013841535164</id>
+    <published>2021-08-04T04:26:51-04:00</published>
+    <updated>2021-08-04T04:26:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-deep-wave-2"/>
+    <title>Grade 10A+ Virgin Hair 3/4 Bundles with 4*4 Lace Closure Deep Wave 🛫</title>
+    <s:type>deep wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-deep-wave-grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-deep-wave-29901411287228.jpg?v=1628088479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>deep wave<br>
+        <strong>Price: </strong>
+            224.00 - 458.00
+            <a href="https://queenhairinc.com/products/grade-10a-virgin-hair-3-4-bundles-with-4-4-lace-closure-deep-wave-2">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Deep Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-100g/pc+30-35g closure</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Remy Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Machine Double Weft</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">3pcs /4pcs Weft&amp;1pc Closure</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>DHL 5-8 business days ；</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DeepWave</s:tag>
+    <s:tag>Grade 10A+ With Lace Closure</s:tag>
+    <s:tag>Grade10A+</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 14 14+14</title>
+      <s:price currency="USD">224.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 16 16+14</title>
+      <s:price currency="USD">234.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 16 18+14</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 16 16+16</title>
+      <s:price currency="USD">246.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 18 18 +16</title>
+      <s:price currency="USD">262.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 18 20+16</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 18 18+18</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 20 20 +18</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 20 22+18</title>
+      <s:price currency="USD">296.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 20 20+20</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 22 22+20</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 22 24+20</title>
+      <s:price currency="USD">327.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 22 22+20</title>
+      <s:price currency="USD">326.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 24 24+20</title>
+      <s:price currency="USD">342.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 24 26+20</title>
+      <s:price currency="USD">347.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>24 24 24+20</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>24 26 26+20</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>26 26 26+20</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 14 14 14+14</title>
+      <s:price currency="USD">277.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 14 16 16+14</title>
+      <s:price currency="USD">287.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>14 16 18 20+14</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 16 16 16+16</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 16 18 18+16</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>16 18 20 22+16</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 18 18 18+18</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 18 20 20+18</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>18 20 22 24+18</title>
+      <s:price currency="USD">384.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 20 20 20+20</title>
+      <s:price currency="USD">378.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 20 22 22+20</title>
+      <s:price currency="USD">392.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>20 22 24 26+20</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 22 22 22+20</title>
+      <s:price currency="USD">406.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 22 24 24+20</title>
+      <s:price currency="USD">422.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>22 24 26 28+20</title>
+      <s:price currency="USD">446.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>24 24 24 24+20</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>24 24 26 26+20</title>
+      <s:price currency="USD">448.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/7013841535164</id>
+      <title>26 26 26 26+20</title>
+      <s:price currency="USD">458.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

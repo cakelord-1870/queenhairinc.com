@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/613-1bundle.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-04-08T03:06:39-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4717833388134</id>
+    <published>2020-04-08T03:06:39-04:00</published>
+    <updated>2020-04-08T03:06:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/copy-of-10a-613-blonde-hair-weave-bundles-12-30-inch-straight-virgin-1bundle"/>
+    <title>10A 613 Blonde Hair Weave Bundles 12-30 Inch Body wave Virgin 1Bundle</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-10a-613-blonde-hair-weave-bundles-12-30-inch-body-wave-virgin-1bundle-22877354524860.jpg?v=1608153734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            42.00 - 115.00
+            <a href="https://queenhairinc.com/products/copy-of-10a-613-blonde-hair-weave-bundles-12-30-inch-straight-virgin-1bundle">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th style="width: 110px;">Brand<br>
+</th>
+<td class="data last" style="width: 425px;">Queenhair Inc</td>
+</tr>
+<tr class="even">
+<th style="width: 110px;">Texture</th>
+<td class="data last" style="width: 425px;">Body wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th style="width: 110px;">Hair Color</th>
+<td class="data last" style="width: 425px;">613# Blond</td>
+</tr>
+<tr class="even">
+<th style="width: 110px;">Hair Weight</th>
+<td class="data last" style="width: 425px;">95-100g/pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 110px;">Type</th>
+<td class="data last" style="width: 425px;">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th style="width: 110px;">Hair Weft</th>
+<td class="data last" style="width: 425px;">Machine Double Weft</td>
+</tr>
+<tr class="odd">
+<th style="width: 110px;">Lots</th>
+<td class="data last" style="width: 425px;"><span>1pc</span></td>
+</tr>
+<tr class="even">
+<th style="width: 110px;">Can Be Dyed</th>
+<td class="data last" style="width: 425px;">Yes</td>
+</tr>
+<tr class="odd">
+<th style="width: 110px;">Delivery time</th>
+<td class="data last" style="width: 425px;"><span>USPS  3-5 business day； UPS 3-5 business days；</span></td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500.jpg?v=1587003106" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>613 1 bundle</s:tag>
+    <s:tag>613 blonde hair</s:tag>
+    <s:tag>613bundles sale</s:tag>
+    <s:tag>body wave</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:tag>bundles</s:tag>
+    <s:tag>hair color</s:tag>
+    <s:tag>hot selling</s:tag>
+    <s:tag>single</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>BWT412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>BWT414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>16&quot;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>BWT416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>18&quot;</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>BWT418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>20&quot;</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>BWT420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>22&quot;</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>BWT422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>24&quot;</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>BWT424</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>26&quot;</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>BWT426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>28&quot;</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>BWT428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717833388134</id>
+      <title>30&quot;</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>BWT430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4717832011878</id>
+    <published>2020-04-07T23:08:51-04:00</published>
+    <updated>2020-04-07T23:08:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-613-blonde-hair-weave-bundles-12-30-inch-straight-virgin-1bundle"/>
+    <title>10A 613 Blonde Hair Weave Bundles 12-30 Inch Straight Virgin 1Bundle</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-613-blonde-hair-weave-bundles-12-30-inch-straight-virgin-1bundle-14409010348134.jpg?v=1608153800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            42.00 - 115.00
+            <a href="https://queenhairinc.com/products/10a-613-blonde-hair-weave-bundles-12-30-inch-straight-virgin-1bundle">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Brand<br>
+</th>
+<td class="data last">Queenhair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">613# Blond</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-100g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Machine Double Weft</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last"><span>1pc</span></td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days；</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>613 1 bundle</s:tag>
+    <s:tag>613 blonde hair</s:tag>
+    <s:tag>613bundles sale</s:tag>
+    <s:tag>bundles</s:tag>
+    <s:tag>hair color</s:tag>
+    <s:tag>hot selling</s:tag>
+    <s:tag>single</s:tag>
+    <s:tag>straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>STT412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>STT414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>16&quot;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>STT416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>18&quot;</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>STT418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>20&quot;</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>STT420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>22&quot;</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>STT422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>24&quot;</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>STT424</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>26&quot;</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>STT426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>28&quot;</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>STT428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4717832011878</id>
+      <title>30&quot;</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>STT430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

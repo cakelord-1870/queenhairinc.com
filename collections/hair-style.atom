@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/hair-style.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-05-11T23:11:10-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4823864049766</id>
+    <published>2020-05-11T23:11:10-04:00</published>
+    <updated>2020-05-11T23:11:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/copy-of-grade-10a-virgin-hair-bundles-all-texture"/>
+    <title>Wholesale GRADE 10A+ Virgin Hair Bundles -ALL texture</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-straight-12-wholesale-grade-10a-virgin-hair-bundles-all-texture-14720121307238.jpg?v=1608112916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            41.00 - 84.00
+            <a href="https://queenhairinc.com/products/copy-of-grade-10a-virgin-hair-bundles-all-texture">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight/Body wave/Deep wave/Water wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-105g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Hair weft</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body wave</s:tag>
+    <s:tag>deep wave</s:tag>
+    <s:tag>straight</s:tag>
+    <s:tag>water wave</s:tag>
+    <s:tag>wholesale Grade 10A+</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 12&apos;</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>STME12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 12&apos;</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>BWME12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 12&apos;</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>WWME12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 12&apos;</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>DWME12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 14&apos;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>STME14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 14&apos;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>BWME14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 14&apos;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>WWME14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 14&apos;</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>DWME14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 16&apos;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>STME16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 16&apos;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>BWME16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 16&apos;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>WWME16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 16&apos;</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>DWME16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 18&apos;</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>STME18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 18&apos;</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BWME18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 18&apos;</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>WWME18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 18&apos;</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>DWME18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 20&apos;</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>STME20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 20&apos;</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BWME20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 20&apos;</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>WWME20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 20&apos;</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>DWME20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 22&apos;</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>STME22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 22&apos;</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BWME22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 22&apos;</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>WWME22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 22&apos;</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>DWME22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 24&apos;</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>STME24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 24&apos;</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BWME24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 24&apos;</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>WWME24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 24&apos;</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>DWME24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>Straight / 26&apos;</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>STME26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>BodyWave / 26&apos;</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>BWME26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>WaterWave / 26&apos;</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>WWME26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4823864049766</id>
+      <title>DeepWave / 26&apos;</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>DWME26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

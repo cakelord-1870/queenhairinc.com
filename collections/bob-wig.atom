@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/bob-wig.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-12-14T02:48:17-05:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/6136762171580</id>
+    <published>2020-12-14T02:48:17-05:00</published>
+    <updated>2020-12-14T02:48:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-130-bob-wig-virgin-hair-deep-wave-1b"/>
+    <title>10a+ 130% Bob Wig Virgin Hair Deep Wave #1B</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-130-bob-wig-virgin-hair-deep-wave-1b-23000699011260.jpg?v=1608154000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            83.00 - 131.00
+            <a href="https://queenhairinc.com/products/10a-130-bob-wig-virgin-hair-deep-wave-1b">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table height="228" width="474" id="product-attribute-specs-table" class="table table-bordered table-responsive">
+<tbody>
+<tr class="first odd">
+<th style="width: 98.75px;">Brand</th>
+<td class="data last" style="width: 359.659px;">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Products</th>
+<td class="data last" style="width: 359.659px;">130% Density Short Bob Wig 13x4 Lace Frontal Wigs middle part<br>
+</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Material</th>
+<td class="data last" style="width: 359.659px;">10a+100% Human Hair Unprocessed Virgin Hair </td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Color</th>
+<td class="data last" style="width: 359.659px;">Natural Black #1B, Can Be Dyed</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Length</th>
+<td class="data last" style="width: 359.659px;">8 inch / 10 inch / 12 inch / 14 inch</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Texture</th>
+<td class="data last" style="width: 359.659px;">Deep Wave</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Weight</th>
+<td class="data last" style="width: 359.659px;">125-250g/pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Lots</th>
+<td class="data last" style="width: 359.659px;">1pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Delivery time</th>
+<td class="data last" style="width: 359.659px;">USPS 3-5 business days / UPS 3-5 business days<br>Ship from Maspeth store</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13*4 Lace Frontal Wig</s:tag>
+    <s:tag>130% bob wig straight 13*4</s:tag>
+    <s:tag>Bob Wigs</s:tag>
+    <s:tag>bobwig</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/6136762171580</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>DWBQ08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/6136762171580</id>
+      <title>10&quot;</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>DWBQ10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/6136762171580</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">116.00</s:price>
+      <s:sku>DWBQ12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/6136762171580</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">131.00</s:price>
+      <s:sku>DWBQ14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4679352713318</id>
+    <published>2020-03-20T22:26:49-04:00</published>
+    <updated>2020-03-20T22:26:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-150-density-virgin-hair-natural-color-bob-wig-13-4-lace-frontal-wigs-straight-100-human-hair"/>
+    <title>10a+ 150% Bob Wig Virgin Hair Straight #1B</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-150-bob-wig-virgin-hair-straight-1b-22877347152060.jpg?v=1608156266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            119.00 - 195.00
+            <a href="https://queenhairinc.com/products/10a-150-density-virgin-hair-natural-color-bob-wig-13-4-lace-frontal-wigs-straight-100-human-hair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="474" height="228">
+<tbody>
+<tr class="first odd">
+<th style="width: 98.75px;">Brand</th>
+<td style="width: 359.659px;" class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Products</th>
+<td style="width: 359.659px;" class="data last">150% Density Short Bob Wig 13x4 Lace Frontal Wigs<br>
+</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Material</th>
+<td style="width: 359.659px;" class="data last">10a+100% Human Hair Unprocessed Virgin Hair </td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Color</th>
+<td style="width: 359.659px;" class="data last">Natural Black #1B, Can Be Dyed</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Length</th>
+<td style="width: 359.659px;" class="data last">8 inch / 10 inch / 12 inch / 14 inch</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Texture</th>
+<td style="width: 359.659px;" class="data last">Straight</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Weight</th>
+<td style="width: 359.659px;" class="data last">125-250g/pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Lots</th>
+<td style="width: 359.659px;" class="data last">1pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Delivery time</th>
+<td style="width: 359.659px;" class="data last">USPS  3-5 business days / UPS 3-5 business days</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bob Wigs</s:tag>
+    <s:tag>bobwig</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4679352713318</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>BOB008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4679352713318</id>
+      <title>10&quot;</title>
+      <s:price currency="USD">161.00</s:price>
+      <s:sku>BOB010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4679352713318</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">183.00</s:price>
+      <s:sku>BOB012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4679352713318</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>BOB014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4678293061734</id>
+    <published>2020-03-20T02:58:59-04:00</published>
+    <updated>2020-03-20T02:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/10a-130-density-virgin-ha-ir-natural-color-bob-wig-13-4-lace-frontal-wigs-straight-100-human-hair"/>
+    <title>10a+ 130% Bob Wig Virgin Hair Straight #1B</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-130-bob-wig-virgin-hair-straight-1b-29854016700604.jpg?v=1629187181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            73.00 - 121.00
+            <a href="https://queenhairinc.com/products/10a-130-density-virgin-ha-ir-natural-color-bob-wig-13-4-lace-frontal-wigs-straight-100-human-hair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table height="228" width="474" id="product-attribute-specs-table" class="table table-bordered table-responsive">
+<tbody>
+<tr class="first odd">
+<th style="width: 98.75px;">Brand</th>
+<td class="data last" style="width: 359.659px;">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Products</th>
+<td class="data last" style="width: 359.659px;">130% Density Short Bob Wig 13x4 Lace Frontal Wigs Middle Part<br>
+</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Material</th>
+<td class="data last" style="width: 359.659px;">10a+100% Human Hair Unprocessed Virgin Hair </td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Color</th>
+<td class="data last" style="width: 359.659px;">Natural Black #1B, Can Be Dyed</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Length</th>
+<td class="data last" style="width: 359.659px;">8 inch / 10 inch / 12 inch / 14 inch</td>
+</tr>
+<tr class="even">
+<th style="width: 98.75px;">Texture</th>
+<td class="data last" style="width: 359.659px;">Straight</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Hair Weight</th>
+<td class="data last" style="width: 359.659px;">125-250g/pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Lots</th>
+<td class="data last" style="width: 359.659px;">1pc</td>
+</tr>
+<tr class="odd">
+<th style="width: 98.75px;">Delivery time</th>
+<td class="data last" style="width: 359.659px;">USPS 3-5 business days / UPS 3-5 business days<br>Ship from Maspeth store</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13*4 Lace Frontal Wig</s:tag>
+    <s:tag>130% bob wig straight 13*4</s:tag>
+    <s:tag>Bob Wigs</s:tag>
+    <s:tag>bobwig</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678293061734</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>STBQ08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678293061734</id>
+      <title>10&quot;</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>STBQ10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678293061734</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>STBQ12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4678293061734</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">121.00</s:price>
+      <s:sku>STBQ14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/3487889064038</id>
+    <published>2019-04-18T02:12:40-04:00</published>
+    <updated>2019-04-18T02:12:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/613-blonde-bob-wig"/>
+    <title>10a+ 150% Virgin Bob Wig #613</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-150-virgin-bob-wig-613-22877362520252.jpg?v=1608156300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            126.00 - 301.00
+            <a href="https://queenhairinc.com/products/613-blonde-bob-wig">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table id="product-attribute-specs-table" class="table table-bordered table-responsive">
+<tbody>
+<tr class="first odd">
+<th>Brand<br>
+</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">13*4 Lace Wigs Top Quality Blonde Hair S<span data-mce-fragment="1">traight</span>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">125-250g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">Bob Wigs, 8 inch - 14 inch</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">100% Human Remy Hair</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business days / UPS 3-5 business days </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img alt="" src="https://cdn.shopifycdn.net/s/files/1/1658/9389/files/STORE_13e7ffaa-c4b0-4ea3-b4f2-0fa85a9d5e4e_600x600.jpg?v=1606717106"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>613 blonde hair</s:tag>
+    <s:tag>613 wig</s:tag>
+    <s:tag>Bob Wigs</s:tag>
+    <s:tag>bobwig</s:tag>
+    <s:tag>hair color</s:tag>
+    <s:tag>hot selling</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>straight</s:tag>
+    <s:tag>wig</s:tag>
+    <s:tag>wigs</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3487889064038</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>BOB608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3487889064038</id>
+      <title>10&quot;</title>
+      <s:price currency="USD">171.00</s:price>
+      <s:sku>BOB610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3487889064038</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">226.00</s:price>
+      <s:sku>BOB612</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3487889064038</id>
+      <title>14&quot;</title>
+      <s:price currency="USD">301.00</s:price>
+      <s:sku>BOB614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

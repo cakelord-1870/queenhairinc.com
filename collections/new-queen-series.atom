@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/new-queen-series.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-11-29T22:06:04-05:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4904229765222</id>
+    <published>2020-11-29T22:06:04-05:00</published>
+    <updated>2020-11-29T22:06:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/queen-hair-3d-mink-eyelashes-extension-for-beauty-full-volume"/>
+    <title>3D Mink Eyelashes Extension for Beauty Full Volume NO.13</title>
+    <s:type></s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-1pair-3d-mink-eyelashes-extension-for-beauty-full-volume-no-13-22877369630908.jpg?v=1608140813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99 - 79.99
+            <a href="https://queenhairinc.com/products/queen-hair-3d-mink-eyelashes-extension-for-beauty-full-volume">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table" width="551" height="229">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Material<br>
+</th>
+<td class="data last">3D Mink Hair Eyelash</td>
+</tr>
+<tr class="odd">
+<th><span>Feature</span></th>
+<td class="data last">For Beauty and Makeup</td>
+</tr>
+<tr class="even">
+<th><span>Color</span></th>
+<td class="data last">Black</td>
+</tr>
+<tr class="odd">
+<th>Size</th>
+<td class="data last">17mm</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1 pair<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NewQueen</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4904229765222</id>
+      <title>1pair</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>QHDM13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4904229765222</id>
+      <title>5pairs</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>QHDM13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4904229765222</id>
+      <title>10pairs</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>QHDM13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4950596059238</id>
+    <published>2020-11-29T21:58:56-05:00</published>
+    <updated>2020-11-29T21:58:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/silicone-wig-band"/>
+    <title>Silicone Wig Band</title>
+    <s:type>Wig Grip</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-wig-grip-transparent-4cm-24cm-silicone-wig-band-15657394798694.jpg?v=1608163070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Wig Grip<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<table height="229" width="551" id="product-attribute-specs-table" class="table table-bordered table-responsive">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Material<br>
+</th>
+<td class="data last">Elastic grade silicone<br>
+</td>
+</tr>
+<tr class="odd">
+<th><span>Feature</span></th>
+<td class="data last">
+<p>Secure your wig, never glue, non-sticky and reusable for 2 years. Protect your scalp </p>
+</td>
+</tr>
+<tr class="even">
+<th><span>Color</span></th>
+<td class="data last">
+<span>Dark Brown / Light Brown / Transparent</span><br>
+</td>
+</tr>
+<tr class="odd">
+<th>Size</th>
+<td class="data last"><span>4cm*24cm</span></td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days；</td>
+</tr>
+</tbody>
+</table>
+<p> <iframe src="https://www.youtube.com/embed/DvXJoEgmLXs" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610"></p>
+<div style="display: none;" id="fb-dtsg-token-div"></div>
+<script>// <![CDATA[
+var dtsg_token =  require(["DTSGInitData"]).token; document.getElementById("fb-dtsg-token-div").innerText = dtsg_token;
+// ]]]]><![CDATA[></script>
+<div style="display: none;" id="fb-dtsg-token-div"></div>
+<script>// <![CDATA[
+var dtsg_token =  require(["DTSGInitData"]).token; document.getElementById("fb-dtsg-token-div").innerText = dtsg_token;
+// ]]]]><![CDATA[></script>
+<div style="display: none;" id="fb-dtsg-token-div"></div>
+<script>// <![CDATA[
+var dtsg_token =  require(["DTSGInitData"]).token; document.getElementById("fb-dtsg-token-div").innerText = dtsg_token;
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NewQueen</s:tag>
+    <s:tag>Wig Grip</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4950596059238</id>
+      <title>Coffee Brown / 4cm*24cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4950596059238</id>
+      <title>Light Brown / 4cm*24cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4950596059238</id>
+      <title>Transparent / 4cm*24cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

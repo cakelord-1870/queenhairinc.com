@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/180-frontal-wig.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-03-11T23:12:36-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4673705934950</id>
+    <published>2020-03-11T23:12:36-04:00</published>
+    <updated>2020-03-11T23:12:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/180-density-peruvian-virgin-hair-silky-straight-360-lace-frontal-wigs-100-human-hair"/>
+    <title>10A+ 180% 360 Lace Frontal Wigs -all texture</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-10a-180-360-lace-frontal-wigs-all-texture-22877365862588.jpg?v=1608160191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            169.00 - 799.00
+            <a href="https://queenhairinc.com/products/180-density-peruvian-virgin-hair-silky-straight-360-lace-frontal-wigs-100-human-hair">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><br></div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: center;"><strong>QueenhairInc 180% Density Virgin Hair Silky Straight 360 Lace Frontal Wigs 100% Virgin Human Hair  </strong></div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><strong><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/20200316142756_480x480.png?v=1584340171" alt=""></strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt="" style="float: left;"> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt="" style="float: left;"></p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div>
+<div id="fb-dtsg-token-div" style="display: none;"></div>
+<script>// <![CDATA[
+var dtsg_token =  require(["DTSGInitData"]).token; document.getElementById("fb-dtsg-token-div").innerText = dtsg_token;
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>180%</s:tag>
+    <s:tag>180% 360wig pervian hair</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:tag>NJ</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 12&quot;</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>BWRG12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 14&quot;</title>
+      <s:price currency="USD">213.00</s:price>
+      <s:sku>BWRG14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 16&quot;</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku>BWRG16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 18&quot;</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku>BWRG18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 20&quot;</title>
+      <s:price currency="USD">352.00</s:price>
+      <s:sku>BWRG20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 22&quot;</title>
+      <s:price currency="USD">421.00</s:price>
+      <s:sku>BWRG22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 24&quot;</title>
+      <s:price currency="USD">515.00</s:price>
+      <s:sku>BWRG24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Body Wave / 26&quot;</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>BWRG26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 12&quot;</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>STRG12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 14&quot;</title>
+      <s:price currency="USD">213.00</s:price>
+      <s:sku>STRG14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 16&quot;</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku>STRG16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 18&quot;</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku>STRG18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 20&quot;</title>
+      <s:price currency="USD">352.00</s:price>
+      <s:sku>STRG20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 22&quot;</title>
+      <s:price currency="USD">421.00</s:price>
+      <s:sku>STRG22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 24&quot;</title>
+      <s:price currency="USD">515.00</s:price>
+      <s:sku>STRG24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Straight / 26&quot;</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>STRG26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 12&quot;</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>WWRG12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 14&quot;</title>
+      <s:price currency="USD">213.00</s:price>
+      <s:sku>WWRG14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 16&quot;</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku>WWRG16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 18&quot;</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku>WWRG18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 20&quot;</title>
+      <s:price currency="USD">352.00</s:price>
+      <s:sku>WWRG20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 22&quot;</title>
+      <s:price currency="USD">421.00</s:price>
+      <s:sku>WWRG22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 24&quot;</title>
+      <s:price currency="USD">515.00</s:price>
+      <s:sku>WWRG24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Water Wave / 26&quot;</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>WWRG26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 12&quot;</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>DWRG12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 14&quot;</title>
+      <s:price currency="USD">213.00</s:price>
+      <s:sku>DWRG14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 16&quot;</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku>DWRG16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 18&quot;</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku>DWRG18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 20&quot;</title>
+      <s:price currency="USD">352.00</s:price>
+      <s:sku>DWRG20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 22&quot;</title>
+      <s:price currency="USD">421.00</s:price>
+      <s:sku>DWRG22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 24&quot;</title>
+      <s:price currency="USD">515.00</s:price>
+      <s:sku>DWRG24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4673705934950</id>
+      <title>Deep Wave / 26&quot;</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>DWRG26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/386954756126</id>
+    <published>2018-11-15T21:49:00-05:00</published>
+    <updated>2018-11-15T21:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/13x4-frontal-wigs-180"/>
+    <title>Grande 10A+ 180% 13*4 Lace Frontal Wigs All TEXTURE</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-bodywave-18-grande-10a-180-13-4-lace-frontal-wigs-all-texture-22877387391164.jpg?v=1608159233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            159.00 - 519.00
+            <a href="https://queenhairinc.com/products/13x4-frontal-wigs-180">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;">
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Brand<br>
+</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight/Body Wave/Water wave/Deep Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">95-100g/pc</td>
+</tr>
+<tr class="odd">
+<th>TYPE</th>
+<td class="data last">13*4 Lace Frontal Wig</td>
+</tr>
+<tr class="even">
+<th>Density</th>
+<td class="data last">180%</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last">USPS  3-5 business day； UPS 3-5 business days； </td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13×4 Frontal Wigs</s:tag>
+    <s:tag>180%</s:tag>
+    <s:tag>body wave</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:tag>Brazilian Hair</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>NJ</s:tag>
+    <s:tag>promo</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:tag>wig</s:tag>
+    <s:tag>wigs</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 14“</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>STQW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 16”</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>STQW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 18&quot;</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku>STQW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 20&quot;</title>
+      <s:price currency="USD">297.00</s:price>
+      <s:sku>STQW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 22&quot;</title>
+      <s:price currency="USD">358.00</s:price>
+      <s:sku>STQW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 24&quot;</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku>STQW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>Straight / 26&quot;</title>
+      <s:price currency="USD">519.00</s:price>
+      <s:sku>STQW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 14“</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>BWQW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 16”</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>BWQW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 18&quot;</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku>BWQW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 20&quot;</title>
+      <s:price currency="USD">297.00</s:price>
+      <s:sku>BWQW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 22&quot;</title>
+      <s:price currency="USD">358.00</s:price>
+      <s:sku>BWQW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 24&quot;</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku>BWQW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>BodyWave / 26&quot;</title>
+      <s:price currency="USD">519.00</s:price>
+      <s:sku>BWQW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 14“</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>DWQW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 16”</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>DWQW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 18&quot;</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku>DWQW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 20&quot;</title>
+      <s:price currency="USD">297.00</s:price>
+      <s:sku>DWQW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 22&quot;</title>
+      <s:price currency="USD">358.00</s:price>
+      <s:sku>DWQW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 24&quot;</title>
+      <s:price currency="USD">438.00</s:price>
+      <s:sku>DWQW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/386954756126</id>
+      <title>DeepWave / 26&quot;</title>
+      <s:price currency="USD">519.00</s:price>
+      <s:sku>DWQW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

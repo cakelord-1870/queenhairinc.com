@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/5-5-lace-closure.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-04-20T06:05:36-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/3507754434662</id>
+    <published>2020-04-20T06:05:36-04:00</published>
+    <updated>2020-04-20T06:05:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/5x5-lace-closure"/>
+    <title>Grade 10A 5x5 Lace Closure-ALL texture</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-black-body-wave-10-grade-10a-5x5-lace-closure-straight-body-wave-all-texture-11016568438886.jpg?v=1608123238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            43.00 - 113.00
+            <a href="https://queenhairinc.com/products/5x5-lace-closure">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p style="text-align: left;"><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight/Body wave/Deep wave/Water wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">25-50g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Closure</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5×5 Lace closure</s:tag>
+    <s:tag>ALL texture</s:tag>
+    <s:tag>body wave</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:tag>closure/frontal</s:tag>
+    <s:tag>DeepWave</s:tag>
+    <s:tag>straight</s:tag>
+    <s:tag>WaterWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 10‘’</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>STZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 12‘’</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>STZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 14‘’</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>STZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 16‘’</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>STZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 18‘’</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>STZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Straight / 20‘’</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>STZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 10‘’</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>BWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 12‘’</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>BWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 14‘’</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>BWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 16‘’</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>BWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 18‘’</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>BWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / Body wave / 20‘’</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>BWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 10‘’</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>WWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 12‘’</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>WWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 14‘’</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>WWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 16‘’</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>WWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 18‘’</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>WWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / WaterWave / 20‘’</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>WWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 10‘’</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>DWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 12‘’</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>DWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 14‘’</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>DWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 16‘’</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>DWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 18‘’</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>DWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/3507754434662</id>
+      <title>Black / DeepWave / 20‘’</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>DWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4684171608166</id>
+    <published>2020-03-24T01:36:17-04:00</published>
+    <updated>2020-03-24T01:36:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/5x5-lace-closure-free-part-water-wave-100-human-hair"/>
+    <title>5x5 Lace Closure Free Part Water Wave 100% Human Hair</title>
+    <s:type>water wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-water-wave-5x5-lace-closure-free-part-water-wave-100-human-hair-22877371236540.jpg?v=1608138718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>water wave<br>
+        <strong>Price: </strong>
+            43.00 - 113.00
+            <a href="https://queenhairinc.com/products/5x5-lace-closure-free-part-water-wave-100-human-hair">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Water Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">25-50g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Closure</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><br></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5x5 Lace Closure</s:tag>
+    <s:tag>closure/frontal</s:tag>
+    <s:tag>WaterWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>10 inch</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>WWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>12 inch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>WWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>14 inch</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>WWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>16 inch</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>WWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>18 inch</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>WWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>20 inch</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>WWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684171608166</id>
+      <title>22inch</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4684163186790</id>
+    <published>2020-03-24T01:36:17-04:00</published>
+    <updated>2020-03-24T01:36:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/5x5-lace-closure-free-part-straight-100-human-hair"/>
+    <title>5x5 Lace Closure Free Part Straight 100% Human Hair</title>
+    <s:type>straight</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-straight-5x5-lace-closure-free-part-straight-100-human-hair-22877414031548.jpg?v=1608138586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>straight<br>
+        <strong>Price: </strong>
+            43.00 - 113.00
+            <a href="https://queenhairinc.com/products/5x5-lace-closure-free-part-straight-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Straight</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">25-50g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Closure</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5×5 Lace closure</s:tag>
+    <s:tag>closure/frontal</s:tag>
+    <s:tag>Straight</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>10 inch</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>STZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>12 inch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>STZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>14 inch</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>STZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>16 inch</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>STZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>18 inch</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>STZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684163186790</id>
+      <title>20 inch</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>STZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4684149817446</id>
+    <published>2020-03-24T01:36:17-04:00</published>
+    <updated>2020-03-24T01:36:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/5x5-lace-closure-free-part-deep-wave-100-human-hair"/>
+    <title>5x5 Lace Closure Free Part Deep wave 100% Human Hair</title>
+    <s:type>deep wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-deep-wave-5x5-lace-closure-free-part-deep-wave-100-human-hair-22877364060348.jpg?v=1608138467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>deep wave<br>
+        <strong>Price: </strong>
+            43.00 - 113.00
+            <a href="https://queenhairinc.com/products/5x5-lace-closure-free-part-deep-wave-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Deep Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">25-50g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Closure</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5x5 Lace Closure</s:tag>
+    <s:tag>closure/frontal</s:tag>
+    <s:tag>DeepWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>10 inch</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>DWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>12 inch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>DWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>14 inch</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>DWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>16 inch</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>DWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>18 inch</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>DWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684149817446</id>
+      <title>20 inch</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>DWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4682549330022</id>
+    <published>2020-03-23T02:26:47-04:00</published>
+    <updated>2020-03-23T02:26:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/5x5-lace-closure-free-part-body-wave-100-human-hair"/>
+    <title>5x5 Lace Closure Free Part Body Wave 100% Human Hair</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-5x5-lace-closure-free-part-body-wave-100-human-hair-22877439656124.jpg?v=1608138387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            43.00 - 113.00
+            <a href="https://queenhairinc.com/products/5x5-lace-closure-free-part-body-wave-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Body Wave</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">
+<p>25-50g/pc</p>
+</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Closure</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5x5 Lace Closure</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:tag>closure/frontal</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>10 inch</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>BWZK10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>12 inch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>BWZK12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>14 inch</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>BWZK14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>16 inch</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>BWZK16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>18 inch</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>BWZK18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4682549330022</id>
+      <title>20 inch</title>
+      <s:price currency="USD">113.00</s:price>
+      <s:sku>BWZK20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

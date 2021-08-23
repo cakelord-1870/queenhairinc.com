@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/collections/13-6-lace-frontal.atom"/>
+  <title>Queen Hair Inc</title>
+  <updated>2020-03-25T01:42:05-04:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/products/4686132183142</id>
+    <published>2020-03-25T01:42:05-04:00</published>
+    <updated>2020-03-25T01:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-water-wave-100-human-hair"/>
+    <title>13x6 Lace Frontal Free Part Water wave 100% Human Hair</title>
+    <s:type>water wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-water-wave-13x6-lace-frontal-free-part-water-wave-100-human-hair-22877442277564.jpg?v=1608143271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>water wave<br>
+        <strong>Price: </strong>
+            74.00 - 192.00
+            <a href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-water-wave-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/f96d042344ada368e1b3ae32a6711c4.jpg?v=1587451550" alt=""></p>
+<p> </p>
+<table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Water wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">50-100g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Frontal</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/a22850c9caf520c127a98d3dae43500_f071b55a-5105-40b0-a339-dc902a2ccbd8.jpg?v=1587194939" alt=""></p>
+<p><img src="https://cdn.shopify.cn/s/files/1/1658/9389/files/8008ed226c544c277e9051f2383d66b.jpg?v=1587451610" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13x6 Lace Frontal</s:tag>
+    <s:tag>WaterWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>10 inch</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>WWQS10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>12 inch</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>WWQS12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>14 inch</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>WWQS14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>16 inch</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>WWQS16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>18 inch</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>WWQS18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686132183142</id>
+      <title>20 inch</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku>WWQS20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4686115733606</id>
+    <published>2020-03-25T01:42:05-04:00</published>
+    <updated>2020-03-25T01:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-deep-wave-100-human-hair"/>
+    <title>13x6 Lace Frontal Free Part Deep wave 100% Human Hair</title>
+    <s:type>deep wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-deep-wave-13x6-lace-frontal-free-part-deep-wave-100-human-hair-22877370384572.jpg?v=1608143937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>deep wave<br>
+        <strong>Price: </strong>
+            74.00 - 192.00
+            <a href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-deep-wave-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Deep wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">50-100g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Frontal</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13x6 Lace Frontal</s:tag>
+    <s:tag>DeepWave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>10 inch</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>DWQS10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>12 inch</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>DWQS12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>14 inch</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>DWQS14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>16 inch</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>DWQS16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>18 inch</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>DWQS18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4686115733606</id>
+      <title>20 inch</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku>DWQS20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/products/4684338757734</id>
+    <published>2020-03-24T01:36:17-04:00</published>
+    <updated>2020-03-24T01:36:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-body-wave-100-human-hair"/>
+    <title>13x6 Lace Frontal Free Part Body wave 100% Human Hair</title>
+    <s:type>Body wave</s:type>
+    <s:vendor>Queen Hair Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1658/9389/products/queen-hair-inc-body-wave-13x6-lace-frontal-free-part-body-wave-100-human-hair-22877365043388.jpg?v=1608144176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Queen Hair Inc<br>
+        <strong>Type: </strong>Body wave<br>
+        <strong>Price: </strong>
+            74.00 - 192.00
+            <a href="https://queenhairinc.com/products/13x6-lace-frontal-free-part-body-wave-100-human-hair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-bordered table-responsive" id="product-attribute-specs-table">
+<tbody>
+<tr class="first odd">
+<th>Series</th>
+<td class="data last">Queen Hair Inc</td>
+</tr>
+<tr class="even">
+<th>Texture</th>
+<td class="data last">Body wave<br>
+</td>
+</tr>
+<tr class="odd">
+<th>Hair Color</th>
+<td class="data last">Natural Black</td>
+</tr>
+<tr class="even">
+<th>Hair Weight</th>
+<td class="data last">50-100g/pc</td>
+</tr>
+<tr class="odd">
+<th>Type</th>
+<td class="data last">Brazilian Hair, Malaysian Hair, Peruvian Hair, Indian Hair</td>
+</tr>
+<tr class="even">
+<th>Hair Weft</th>
+<td class="data last">Lace Frontal</td>
+</tr>
+<tr class="odd">
+<th>Lots</th>
+<td class="data last">1pc</td>
+</tr>
+<tr class="even">
+<th>Can Be Dyed</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="odd">
+<th>Delivery time</th>
+<td class="data last"><span>USPS  3-5 business day； UPS 3-5 business days</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>13x6 Lace Frontal</s:tag>
+    <s:tag>Bodywave</s:tag>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>10 inch</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>BWQS10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>12 inch</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BWQS12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>14 inch</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>BWQS14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>16 inch</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>BWQS16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>18 inch</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>BWQS18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://queenhairinc.com/products/4684338757734</id>
+      <title>20 inch</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku>BWQS20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

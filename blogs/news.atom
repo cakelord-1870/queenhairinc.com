@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://queenhairinc.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://queenhairinc.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://queenhairinc.com/blogs/news.atom"/>
+  <title>Queen Hair Inc - News</title>
+  <updated>2020-12-07T01:12:52-05:00</updated>
+  <author>
+    <name>Queen Hair Inc</name>
+  </author>
+  <entry>
+    <id>https://queenhairinc.com/blogs/news/hair-manufacturer</id>
+    <published>2020-12-07T01:12:52-05:00</published>
+    <updated>2020-12-07T06:32:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/blogs/news/hair-manufacturer"/>
+    <title>[Hair Manufacturer] Handmade lace wigs and hair bundles</title>
+    <author>
+      <name>Avril Zhang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Do you know how to make hair extensions?</p>
+<p>Let's check following video:</p>
+<p> </p>
+<h2>Crocheting Lace wig</h2>
+<p>100% human hair wig handcrafted with soft and breathable swiss lace that makes you feel comfortable and no itching</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ApXWwFgikH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h2><span>Double Check Bundles</span></h2>
+In our wigs factory, we will double check and comb the hair lace bundles before packing. Therefore you will receive brand new gorgeous hair.:)<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/eN5IECIHwqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/blogs/news/human-hair-vs-synthetic-hair</id>
+    <published>2020-11-24T23:06:03-05:00</published>
+    <updated>2020-12-01T20:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/blogs/news/human-hair-vs-synthetic-hair"/>
+    <title>Human Hair vs Synthetic Hair?</title>
+    <author>
+      <name>Avril Zhang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h3>How to identify the human hair &amp; Synthetic Hair? </h3>
+<p>1.Burn a few strands of hair.<br><strong>Human hair:</strong> It is reduced to ash and produces a foul smell when it is burned.<br><strong>Synthetic hair:</strong> Melts into a sticky ball</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/H8DiS6kJnFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/blogs/news/how-to-wash-bundles-before-installation</id>
+    <published>2020-11-24T22:57:34-05:00</published>
+    <updated>2020-12-01T20:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/blogs/news/how-to-wash-bundles-before-installation"/>
+    <title>How to wash bundles before installation?</title>
+    <author>
+      <name>Avril Zhang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong>Prepare:</strong> warm water, conditioner &amp; shampoo, bundles, plastic basin</p>
+<p> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CxJTMgwOojM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://queenhairinc.com/blogs/news/how-to-sew-in-hair-bundles</id>
+    <published>2020-11-24T21:28:33-05:00</published>
+    <updated>2020-12-01T20:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://queenhairinc.com/blogs/news/how-to-sew-in-hair-bundles"/>
+    <title>How to sew in hair bundles?</title>
+    <author>
+      <name>Avril Zhang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Natural Hair Sew In Straight Bundles✨✨✨</p>
+<p>Thanks Stylist @propermane_  for sharing. <iframe width="560" height="315" src="https://www.youtube.com/embed/MMCv0ONc-r4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>]]>
+    </content>
+  </entry>
+</feed>
